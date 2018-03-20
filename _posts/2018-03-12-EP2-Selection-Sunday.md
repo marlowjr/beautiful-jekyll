@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ep 2
-subtile: Selection Sunday
+subtitle: Selection Sunday
 tag: [Podcast, NCAA]
 ---
 
