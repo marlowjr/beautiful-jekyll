@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: 132 Breese Podcast
+title: "132 Breese Podcast"
 
 # Short description of your site
-#description: Blog Post & Podcast Episodes
+description: "Blog Post & Podcast Episodes"
 
 # --- Navigation bar options --- #
 
