@@ -23,7 +23,7 @@ description: A virtual proof that name is awesome!
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Us: "aboutme"
   Listen:
     - iTunes: "https://itunes.apple.com/us/podcast/132-breese-podcast/id1353274149?mt=2"
     - Google Play: "https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&apn=com.google.android.music&link=https://play.google.com/music/m/I4vfvs7vemfldxjvqqsy5fckovy?t%3D132_Breese_Podcast%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16"
@@ -45,7 +45,7 @@ title-img: "/img/132 Breese (4).jpg"
 navbar-col: "#C5050C"
 navbar-text-col: "#282728"
 navbar-children-col: "#C5050C"
-page-col: "#FFFFFF"
+page-col: "#f7f7f7"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#282728"
