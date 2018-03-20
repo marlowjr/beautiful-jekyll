@@ -1,16 +1,23 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Host 
+subtitle: Your Host of the 132 Breese Podcast
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+# Marlow
+![marlow](img/marlow-head-shot.png)
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+this is a blub about Marlow. 
+
+- Live in Chicago
+- Have a cat
 
 What else do you need?
 
-### my history
+# Casey 
+  ![casey](img/imageedit_3_5873510159.png)
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+This is a blurb about Casey 
+
+### Our Story
+
