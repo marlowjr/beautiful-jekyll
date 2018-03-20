@@ -36,7 +36,7 @@ avatar: "/img/132 Breese (4).jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: "marlowjr.github.io/img/132 Breese (4).jpg"
+title-img: "/img/132 Breese (4).jpg"
 
 # --- Background colour/image options --- #
 
