@@ -2,7 +2,7 @@
 layout: post
 title: Ep 3
 subtitle: March Madness & NFL Free Agency
-image: /img/132 Breese (4).jpg
+image: /img/microphone.png
 tags: [Podcast, NCAA, NFL]
 ---
 
