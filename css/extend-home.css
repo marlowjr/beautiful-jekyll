@@ -1,0 +1,33 @@
+.stack-color {
+    color: #404040;
+}
+
+.spacer {
+    height: 10px;
+    padding: 0;
+    margin: 5px;
+}
+
+.text-muted {
+    color: #808080;
+    font-size: 14px;
+}
+
+.hd-shadow {
+    text-shadow: 4px 4px 4px #aaa;
+}
+
+.post-preview-box {
+    background-image: url('/img/concrete-texture.png');
+    background-attachment: scroll;
+    border-style: 0px;
+    border-radius: 8px;
+    margin-top: 5px;
+    margin-bottom: 15px;;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    box-shadow: 1px 1px 10px #bbb;
+}
