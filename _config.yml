@@ -42,7 +42,7 @@ title-img: "/img/132 Breese (4).jpg"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#C5050C"
+#navbar-col: "#C5050C"
 navbar-text-col: "#282728"
 navbar-children-col: "#9b0000"
 page-col: "#f7f7f7"
