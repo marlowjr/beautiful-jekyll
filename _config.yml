@@ -24,6 +24,8 @@ description: "Blog Post & Podcast Episodes"
 # List of links in the navigation bar
 navbar-links:
   About Us: "aboutme"
+  Blog: "blog"
+  Podcast: "podcast"
   Listen:
     - iTunes: "https://itunes.apple.com/us/podcast/132-breese-podcast/id1353274149?mt=2"
     - Google Play: "https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&apn=com.google.android.music&link=https://play.google.com/music/m/I4vfvs7vemfldxjvqqsy5fckovy?t%3D132_Breese_Podcast%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16"
