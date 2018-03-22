@@ -8,12 +8,6 @@ bigimg: /img/1200Cover_BreeseTerrace_Credit_Richard_Hurd.jpg"
 css: /css/extend-home.css
 ---
 
-## Recent Post 
-
-{% for post in site.posts limit:5 %}
-
-## {{ post.title }}
-
 <div class="posts-list">
   {% for post in paginator.posts %}
   <article class="post-preview">
@@ -79,4 +73,4 @@ css: /css/extend-home.css
   {% endif %}
 </ul>
 {% endif %}
-{% endfor %}
+
